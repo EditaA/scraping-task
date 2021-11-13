@@ -4,8 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "dev": "NODE_ENV=development nodemon server.js",
-    "start": "node server.js"
+    "start": "NODE_ENV=development nodemon server.js"
   },
   "author": "Edita Dani",
   "license": "ISC",
